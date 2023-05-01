@@ -48,7 +48,7 @@ Membuat model Machine Learning terbaik untuk memprediksi terjadinya pembelian at
 ## 5. Menentukan model prediksi terbaik
 ## 6. Insight bisnis
 # Deskripsi Statistik
-![Deskripsi Tipe Numeric](C:\Users\Dell\portfolio1\image\deskripsinum.png)
+![Deskripsi Tipe Numeric](https://github.com/dodystat/myfinalproject_supervisedml/blob/main/image/deskripsinum.png)
 
 
 
