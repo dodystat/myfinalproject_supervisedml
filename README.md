@@ -1,3 +1,5 @@
+### Penjelasan 
+Project ini merupakan final project tugas akhir Bootcampt Data Science di Rakain Academy
 ### TOPIK : Prediksi Terjadinya Transaksi Pembelian Oleh Pengunjung Pada Sebuah Toko Belanja Online
 Topik ini dilakukan terhadap sebuah dataset yang diperoleh dari www.kaggle.com yang bernama "Online Shoppers Purchasing Intention". Dari dataset tersebut ingin diketahui apakah pengunjung sebuah toko online diprediksi melakukan pembelian atau tidak. Penjelasan dataset dan kolom target dijelaskan pada bagian berikutnya.
 ### Dataset "Online Shoppers Purchasing Intention"
@@ -104,3 +106,7 @@ Berdasarkan model random forest diperoleh feature importance atau feature yang b
 - 	Fitur PageValues, Month, Administrative dan ProductRelated mempunyai pengaruh positif terhadap terjadinya transaksi.
 - Fitur ExitRates, VisitorType mempunyai pengaruh negatif terhadap terjadinya transaksi.
 - PageValues memiliki pengaruh paling besar terhadap kecendurangan pengunjung melakukan transaksi serta memberikan pengaruh positif dimana semakin tinggi nilai pagevalue maka pengunjung cenderung membeli dan sebaliknya
+
+### Keterangan
+Algoritma lengkap mengenai keseluruhan proses atau langkah-langkah dari awal sampai akhir untuk memperoleh model MAchine Learning dapat dilihat pada file ipynb.
+
